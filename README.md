@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Salim.
-- 👀 I’m interested in everything related to Web development (mostly PHP/Symfony and JavaScript), Linux and open source.
-- 🌱 I’m currently learning/integrating Elasticsearch, and as a hobby learning C programing language (to contribute to the Linux kernel).
+- 👀 I’m interested in everything related to Web development (mostly PHP/Symfony/Laravel), Linux and Open Source.
 - 📫 How to reach me: ibrogimov.salim@gmail.com
 
 <!---
